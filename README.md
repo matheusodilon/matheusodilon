@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusodilon&layout=compact&langs_count=7&theme=highcontrast" />
 
 <!--
