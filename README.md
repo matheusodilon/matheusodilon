@@ -2,7 +2,7 @@
 
 #
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 
 #
 
