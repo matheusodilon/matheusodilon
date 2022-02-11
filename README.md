@@ -2,6 +2,10 @@
 
 #
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+
+#
+
 [![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/mtsodilon/)](https://www.instagram.com/mtsodilon/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusodilon/)](https://www.linkedin.com/in/matheusodilon/)
 
