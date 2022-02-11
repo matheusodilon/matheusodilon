@@ -2,10 +2,19 @@
 
 #
 <div style="display: inline_block">
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+
+   <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+
+   <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+
+   <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 </div>
+
 #
 
 [![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/mtsodilon/)](https://www.instagram.com/mtsodilon/)
