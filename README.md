@@ -1,9 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusodilon&layout=compact&langs_count=7&theme=dark" />
 
 #
+<div style="display: inline_block">
+  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-
+  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+</div>
 #
 
 [![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/mtsodilon/)](https://www.instagram.com/mtsodilon/)
