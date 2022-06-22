@@ -1,5 +1,4 @@
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusodilon&theme=dracula&layout=compact)
 
 <div style="display: inline_block">
   <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
